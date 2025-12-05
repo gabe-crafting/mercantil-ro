@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "businesses": "Businesses",
+    "login": "Login"
+  },
+  "home": {
+    "title": "Mercantil.RO",
+    "subtitle": "Platform for promoting Romanian businesses",
+    "description": "Discover and support local businesses from Romania"
+  },
+  "about": {
+    "title": "About Us"
+  },
+  "businesses": {
+    "title": "Businesses"
+  },
+  "login": {
+    "title": "Login"
+  }
+}
+

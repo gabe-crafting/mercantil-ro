@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre",
+    "businesses": "Afaceri",
+    "login": "Autentificare"
+  },
+  "home": {
+    "title": "Mercantil.RO",
+    "subtitle": "Platforma pentru promovarea afacerilor românești",
+    "description": "Descoperă și susține afacerile locale din România"
+  },
+  "about": {
+    "title": "Despre Noi"
+  },
+  "businesses": {
+    "title": "Afaceri"
+  },
+  "login": {
+    "title": "Autentificare"
+  }
+}
+
